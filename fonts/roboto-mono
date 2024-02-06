@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Roboto Mono';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://files.colon3.lol/roboto-mono.ttf) format('truetype');
-}
